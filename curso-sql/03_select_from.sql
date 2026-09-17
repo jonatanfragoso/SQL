@@ -1,0 +1,3 @@
+SELECT IdProduto, DescDescricaoProduto
+FROM produtos
+LIMIT 10
